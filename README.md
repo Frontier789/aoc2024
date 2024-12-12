@@ -29,3 +29,8 @@ so that I cannot take the harder ones first :D
 1. Kotlin
 1. Pascal
 1. Assembly
+
+## Running the solutions
+
+## Task 1
+Install Node.js and simply run `node task_1.js`
