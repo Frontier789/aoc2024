@@ -32,5 +32,10 @@ so that I cannot take the harder ones first :D
 
 ## Running the solutions
 
-## Task 1
+## Task 1 (JavaScript)
 Install Node.js and simply run `node task_1.js`
+
+## Task 2 (R)
+Install R from [https://cran.rstudio.com](https://cran.rstudio.com)
+
+Run `task_2.r` using `Rscript` (might not be added to PATH automatically)
