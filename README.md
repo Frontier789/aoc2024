@@ -19,7 +19,7 @@ so that I cannot take the harder ones first :D
 1. Ruby
 1. Rust
 1. C++
-1. Nim
+1. Excel
 1. Fortran
 1. Python
 1. Java
