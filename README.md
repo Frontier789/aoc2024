@@ -49,3 +49,6 @@ Install the Microsoft (R) .NET Framework then compile the source file using
 `c:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /t:exe .\task_4.cs`, then execute `task_4.exe`. 
 
 Note that your version might differ.
+
+## Task 5 (CMake)
+Install CMake then simply run `cmake -P task_5.cmake`
