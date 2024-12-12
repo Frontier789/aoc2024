@@ -39,3 +39,6 @@ Install Node.js and simply run `node task_1.js`
 Install R from [https://cran.rstudio.com](https://cran.rstudio.com)
 
 Run `task_2.r` using `Rscript` (might not be added to PATH automatically)
+
+## Task 3 (Go)
+Install Go, run the task with `go run task_3.go`
