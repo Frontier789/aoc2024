@@ -31,6 +31,7 @@ so that I cannot take the harder ones first :D
 1. Assembly
 
 ## Running the solutions
+I supply commands to run the solutions from the command line wherever possible
 
 ## Task 1 (JavaScript)
 Install Node.js and simply run `node task_1.js`
@@ -42,3 +43,9 @@ Run `task_2.r` using `Rscript` (might not be added to PATH automatically)
 
 ## Task 3 (Go)
 Install Go, run the task with `go run task_3.go`
+
+## Task 4 (C#)
+Install the Microsoft (R) .NET Framework then compile the source file using
+`c:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /t:exe .\task_4.cs`, then execute `task_4.exe`. 
+
+Note that your version might differ.
