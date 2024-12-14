@@ -9,7 +9,7 @@ so that I cannot take the harder ones first :D
 1. Go
 1. C#
 1. CMake
-1. Agda
+1. LabVIEW
 1. Matlab
 1. Lua
 1. Bash
@@ -52,3 +52,10 @@ Note that your version might differ.
 
 ## Task 5 (CMake)
 Install CMake then simply run `cmake -P task_5.cmake`
+
+## Task 6 (LabView)
+Download and install LabVIEW from https://www.ni.com
+
+Launch LabVIEW and open `task_6.vi`, then press CTRL+R or hit the Run button.
+
+The answers will show up in the **Task 1** and **Task 2** indicators.
