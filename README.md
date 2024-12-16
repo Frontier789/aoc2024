@@ -59,3 +59,6 @@ Download and install LabVIEW from https://www.ni.com
 Launch LabVIEW and open `task_6.vi`, then press CTRL+R or hit the Run button.
 
 The answers will show up in the **Task 1** and **Task 2** indicators.
+
+## Task 8 (Lua)
+Download and install Lua (https://www.lua.org/start.html) then simply run `lua task_8.lua`
