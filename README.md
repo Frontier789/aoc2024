@@ -20,14 +20,14 @@ so that I cannot take the harder ones first :D
 1. Rust
 1. C++
 1. Excel
-1. Fortran
+1. Imagine Logo
 1. Python
 1. Java
 1. Haskell
 1. Ada
 1. C
 1. Kotlin
-1. Pascal
+1. Halide
 1. Assembly
 
 ## Running the solutions
