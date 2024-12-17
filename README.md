@@ -14,7 +14,7 @@ so that I cannot take the harder ones first :D
 1. Lua
 1. Bash
 1. Erlang
-1. Elixir
+1. C++ Compile Time
 1. Dart
 1. Ruby
 1. Rust
