@@ -62,3 +62,6 @@ The answers will show up in the **Task 1** and **Task 2** indicators.
 
 ## Task 8 (Lua)
 Download and install Lua (https://www.lua.org/start.html) then simply run `lua task_8.lua`
+
+## Task 9 (Bash)
+Simply run the script from a bash shell. MAke sure to use at least Bash 4. `./task_9.sh` 
