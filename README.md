@@ -65,3 +65,10 @@ Download and install Lua (https://www.lua.org/start.html) then simply run `lua t
 
 ## Task 9 (Bash)
 Simply run the script from a bash shell. MAke sure to use at least Bash 4. `./task_9.sh` 
+
+## Task 10 (Erlang)
+Download and install Erlang (https://www.erlang.org/downloads).
+
+You might have to add `C:\Program Files\Erlang OTP\bin` to the `PATH` on Windows.
+
+Run the file using escript: `escript task_10.erl`.
