@@ -72,3 +72,12 @@ Download and install Erlang (https://www.erlang.org/downloads).
 You might have to add `C:\Program Files\Erlang OTP\bin` to the `PATH` on Windows.
 
 Run the file using escript: `escript task_10.erl`.
+
+## Task 11 (C++ Compile Time)
+Sadly I we need to preprocess the data so I can include it at compile time using:
+
+`echo -n 'R"(' > 11.tmp; cat input/11.txt >> 11.tmp; echo -n ')"' >> 11.tmp`
+
+This should work fine on Linux and PowerShell both.
+
+Finally run the code with `g++ task_11.cpp`, the output will be an error message stating the solutions.
