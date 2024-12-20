@@ -81,3 +81,8 @@ Sadly I we need to preprocess the data so I can include it at compile time using
 This should work fine on Linux and PowerShell both.
 
 Finally run the code with `g++ task_11.cpp`, the output will be an error message stating the solutions.
+
+## Task 12 (Dart)
+Download and install Dart (https://dart.dev/get-dart).
+
+Then simply run the solution using `dart task_12.dart`.
