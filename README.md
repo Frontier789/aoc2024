@@ -86,3 +86,8 @@ Finally run the code with `g++ task_11.cpp`, the output will be an error message
 Download and install Dart (https://dart.dev/get-dart).
 
 Then simply run the solution using `dart task_12.dart`.
+
+## Task 13 (Ruby)
+Install Ruby (https://www.ruby-lang.org/en/documentation/installation/)
+
+Then simply run `ruby task_13.rb`.
