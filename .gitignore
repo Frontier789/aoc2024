@@ -3,3 +3,4 @@
 *.dump
 *.tmp
 *.pdb
+.vscode

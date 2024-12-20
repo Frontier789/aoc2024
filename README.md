@@ -96,3 +96,8 @@ Then simply run `ruby task_13.rb`.
 Install Rust (https://www.rust-lang.org/)
 
 Compile the task using `rustc -C opt-level=3 task_14.rs`, then run the craeted binary `task_14.exe`.
+
+## Task 15 (C++)
+Compile the code using your favourite C++ compiler, e.g. `g++ task_15.cpp`.
+
+Run the resulting binary `a.exe`.
