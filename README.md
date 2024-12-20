@@ -91,3 +91,8 @@ Then simply run the solution using `dart task_12.dart`.
 Install Ruby (https://www.ruby-lang.org/en/documentation/installation/)
 
 Then simply run `ruby task_13.rb`.
+
+## Task 14 (Rust)
+Install Rust (https://www.rust-lang.org/)
+
+Compile the task using `rustc -C opt-level=3 task_14.rs`, then run the craeted binary `task_14.exe`.
