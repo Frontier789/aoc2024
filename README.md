@@ -101,3 +101,8 @@ Compile the task using `rustc -C opt-level=3 task_14.rs`, then run the craeted b
 Compile the code using your favourite C++ compiler, e.g. `g++ task_15.cpp`.
 
 Run the resulting binary `a.exe`.
+
+## Task 16 (Excel)
+Install excel and enable iterative calculations (https://support.microsoft.com/en-us/office/remove-or-allow-a-circular-reference-in-excel-8540bd0f-6e97-4483-bcf7-1b49cd50d123).
+
+Open `task_16.xlsx`, trust it, reload the data and press F9 to recalculate. The answer will be on the sheet called `16`.
